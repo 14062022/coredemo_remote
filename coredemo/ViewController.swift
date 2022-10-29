@@ -13,6 +13,10 @@ import UIKit
         {
             super.viewDidLoad()
             print("demo")
+            print("demo")
+            print("demo")
+            print("demo")
+            print("demo")
         }
     }
 
